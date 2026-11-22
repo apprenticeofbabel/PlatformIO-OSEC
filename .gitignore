@@ -1,9 +1,10 @@
-.pio
+.pio/*
 .vscode/.browse.c_cpp.db*
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
-src/config.h
+include/config.h
 configuration-tools/Result.log
-configuration-tools/experimental settings
+configuration-tools/experimental settings/*
 configuration-tools/config.h
+pinout.txt
